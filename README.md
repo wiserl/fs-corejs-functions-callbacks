@@ -2,6 +2,7 @@
 
 > Define and use callback functions
 
+[![Build Status](https://travis-ci.org/helio-training/fs-corejs-functions-callbacks.svg?branch=solutions)](https://travis-ci.org/helio-training/fs-corejs-functions-callbacks)
 
 ## Introduction
 
